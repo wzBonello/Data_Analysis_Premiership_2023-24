@@ -1,0 +1,7 @@
+Especificações:
+Se você baixar a planilha e tentar usar o botão "ATUALIZAR DADOS", que contém uma macro, aparecerá uma mensagem de aviso bloqueando a ativação da macro.
+Uma solução para resolver esse problema é instalar o Google Drive em seu computador e, então, adicionar a planilha na pasta "Meu Drive". Desse modo, você poderá usar a planilha com a ativação da macro sem problemas.
+
+Specifications:
+If you download the spreadsheet and try to use the button "ATUALIZAR DADOS", wich has a macro, it will show you a warning message that will block the macro activation.
+Some solution to solve this problem is to instal Google Drive on your computer, and then add the spreadsheet to the folder "My Drive". That way you'll be able to use the spreadsheet with the macro activation without problems.
